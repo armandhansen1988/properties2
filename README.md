@@ -1,4 +1,4 @@
-#Properties Project
+Properties Project
 
     Create a MySQL database
     Update the User, Password and Database name in classes/Database.php
